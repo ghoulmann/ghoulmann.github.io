@@ -1,0 +1,12 @@
+# Site settings
+title: On the streets/saving the scene/from the forces of EVIL.
+email: rikgoldman@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm on the hunt for the right blog technology. Ghost is a possibility. I don't want to rule out gh-pages just yet.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ghoulmann.github.io" # the base hostname & protocol for your site
+twitter_username: 9_while_9
+github_username:  ghoulmann
+
+# Build settings
+markdown: kramdown
