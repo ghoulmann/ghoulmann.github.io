@@ -1,3 +1,5 @@
+# There's G'MIC
+
 Last Summer, I spent a lot of time tinkering with Google's Symptom, artificial neural network's so called _DeepDream_ images. My goal was create a script that scraped images from a given tumblr, process them uniformly with Imagemagick, and then pass them through a couple of deepdream filters. I had found a recipe I liked, and enjoyed seeing it work with consistent success for any set of images I scraped.
 
 [I used scraped images in a tmp directory to ensure the recipe worked for a wide variety of circumstances.]
