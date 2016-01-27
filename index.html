@@ -7,18 +7,22 @@ index: true
 
   <h1>Contents</h1>
 
-  <ul>
+  <div class="container">
     {% for post in site.posts %}
-      <li class="post-meta">
+    <div class="row">
+      <p class="post-meta">
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </p>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <h3 class="small">{{ post.excerpt }}</h3>
-      </li>
+        <p>{{ post.excerpt }}</p>
+        <hr>
+</div>
     {% endfor %}
-  </ul>
+
+  </div>
 
   <p class="small rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 

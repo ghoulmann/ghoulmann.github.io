@@ -1,7 +1,7 @@
 # Site settings
 title: On the streets / Saving the scene / from the forces of / Evil
 name: On the streets / Saving the scene / from the forces of / Evil
-url: "ghoulmann.github.io"
+url: "http://ghoulmann.github.io"
 email: rikgoldman@gmail.com
 description: Testing gh-pages
 baseurl: "" # the subpath of your site, e.g. /blog/
