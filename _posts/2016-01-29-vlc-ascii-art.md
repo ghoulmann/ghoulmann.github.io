@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "VLC Output ascii Video"
+title:  "VLC Outputs ASCII Video"
 date:   2016-01-29
 categories: video vlc
 ---
 
 Well, I'm late to this party.
 
-It seems that mplayer(1) isn't available for my Wily desktop. But torrentfreak had just turned my on to the existence of Matrix-Ascii -- here's a short clip from YouTube:
+It seems that mplayer(1) isn't available for my Wily desktop. But [TorrentFreak](https://torrentfreak.com/oldest-torrent-is-still-being-shared-after-4419-days-160124/) had just turned me on to the existence of Matrix-ASCII -- here's a short clip from YouTube:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F1-glc16PHg" frameborder="0" allowfullscreen></iframe>
 

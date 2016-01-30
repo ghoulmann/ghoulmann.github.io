@@ -1,17 +1,25 @@
 # Site settings
-title: On the streets / Saving the scene / from the forces of / Evil
-name: On the streets / Saving the scene / from the forces of / Evil
+title: On the street / Saving the scene / from the forces of / Evil
+name: On the street / Saving the scene / from the forces of / Evil
 url: "http://ghoulmann.github.io"
 email: rikgoldman@gmail.com
-description: Testing gh-pages
+description: Soon.
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: 9_while_9
 github_username:  ghoulmann
+weibo_username:
+flickr_username: ghoulmann
+linkedin_username: rikgoldman
+lastfm_username: licheghoulmann
+facebook_username:
+duoshuo_username:
+baidushare_id:
+baidutongji_id:
 rss_url: "/feed.xml"
-logo_image: ""
+logo_image: "/images/logo.png"
 # Build settings
 gems: [jekyll-paginate]
-markdown: rdiscount
+markdown: kramdown
 highlighter: pygments
 permalink: /:title/
 paginate: 8
