@@ -1,21 +1,23 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Vita
+permalink: /vita/
 ---
 
-## About
-
-###Specialties:
 
 
-
-###Hobby:
+## Education
 
 
 
-###Contact:
+### Hobbies:
 
 
 
-###Open source:
+### Contact:
+
+
+
+### Service:
+
+### Contributions
