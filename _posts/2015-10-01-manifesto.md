@@ -2,7 +2,7 @@
 title: An Anthology of Manifestos for an Information Age
 layout: post
 date:   2015-10-10
-categories: hacker culture, anthropology, manifestos, reStructuredText
+categories: hackers anthropology manifestos reStructuredText sphinx politics
 ---
 
 The [_Anthology of Manifestos for an Information Age_](http://ghoulmann.github.io/manifesto-anthology/) was put together with high-school students AY 2014-2015, as much to practice critical reading and thinking as to work with reStructuredText markup and Sphinx.
