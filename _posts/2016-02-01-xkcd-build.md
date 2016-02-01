@@ -6,6 +6,7 @@ categories:
 - xkcd
 ---
 
-![](http://imgs.xkcd.com/comics/tools.png)
 
-Visit http://xkcd.com/1629/ for more.
+![Tools](http://imgs.xkcd.com/comics/tools.png)
+
+Visit [XKCD](http://xkcd.com/1629/) for more.
