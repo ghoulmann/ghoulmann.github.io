@@ -16,7 +16,7 @@ duoshuo_username:
 baidushare_id:
 baidutongji_id:
 rss_url: "/feed.xml"
-logo_image: "/images/logo.png"
+logo_image: "/images/portrait-bw.png"
 # Build settings
 gems: [jekyll-paginate, jekyll-sitemap]
 markdown: kramdown
