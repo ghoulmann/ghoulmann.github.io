@@ -2,7 +2,13 @@
 layout: post
 title:  "Don't forget G'MIC"
 date:   2016-01-27
-categories: imaging
+categories:
+- imaging
+- G'MIC
+- Imagemagick
+- GNU/Linux
+- software
+- deepdream
 ---
 
 

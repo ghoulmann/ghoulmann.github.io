@@ -2,7 +2,11 @@
 layout: post
 title:  "Aaron Swartz and Formal Schooling"
 date:   2016-01-27
-categories: education
+categories:
+- education
+- Aaron Swartz
+- unschooling
+- critical pedagogy
 ---
 
 

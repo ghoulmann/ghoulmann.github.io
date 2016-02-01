@@ -2,7 +2,14 @@
 layout: post
 title:  "The Open Syllabus Project: A First Look"
 date:   2016-01-28
-categories: academia linux literature academia syllabus Woolf FinnegansWake opensource github
+categories:
+- academia
+- Linux
+- literature
+- syllabus
+- Virginia Woolf
+- Finnegans Wake
+- open source
 ---
 
 Great work and congratulations to everyone involved with the Open Syllabus Project.

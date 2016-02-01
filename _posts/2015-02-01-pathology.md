@@ -2,7 +2,13 @@
 layout: post
 title:  Pathology and the Pedagogy of the Hacker Class
 date:   2015-02-1
-categories: education
+categories:
+- education
+- education reform
+- The Mentor
+- The Hacker Manifesto
+- The Conscience of a Hacker
+- special education
 ---
 
 

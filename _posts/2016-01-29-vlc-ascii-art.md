@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "VLC Outputs ASCII Video"
+title:  "Well, VLC Outputs ASCII Video"
 date:   2016-01-29
-categories: video vlc
+categories:
+- video
+- vlc
+- ascii
+- video production
 ---
 
 Well, I'm late to this party.
