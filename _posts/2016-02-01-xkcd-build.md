@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tools" (XKCD)
+title: "Tools (XKCD)"
 date:   2016-02-01
 categories:
 - xkcd
