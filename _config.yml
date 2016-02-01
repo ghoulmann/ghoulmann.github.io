@@ -18,7 +18,7 @@ baidutongji_id:
 rss_url: "/feed.xml"
 logo_image: "/images/logo.png"
 # Build settings
-gems: [jekyll-paginate][jekyll-sitemap]
+gems: [jekyll-paginate, jekyll-sitemap]
 markdown: kramdown
 highlighter: pygments
 permalink: /:title/
