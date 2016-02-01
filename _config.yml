@@ -22,5 +22,5 @@ gems: [jekyll-paginate, jekyll-sitemap]
 markdown: kramdown
 highlighter: pygments
 permalink: /:title/
-paginate: 8
+paginate: 5
 paginate_path: page/:num
