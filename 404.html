@@ -4,7 +4,13 @@ layout: page
 
 <h2> Sorry this page does not exist =( </h2>
  <div class="tips">
-  <p>找不到页面了...</p>
+  <p>Choose One:</p>
+  <ul>
+    <li>I broke something</li>
+    <li>You're lost</li>
+  </ul>
+  <p>Return to <a href="/index.html">home</a>.
+
    <p id="view"/>
 </div>
 
@@ -12,7 +18,7 @@ layout: page
   var t = 5;
   setInterval("testTime()", 1000);
   function testTime() {
-    view.innerHTML = t + " 秒后跳转至首页...";
+    view.innerHTML = t + " .......";
     if(t == 0) {
       location="{{ site.url }}";
     }
