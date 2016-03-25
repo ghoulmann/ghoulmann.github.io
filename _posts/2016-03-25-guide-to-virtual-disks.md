@@ -19,6 +19,6 @@ From http://scribeguides.com:
 Tremendous effort meticulously invested in this text. Thankfully, Bielawa, a developer at RedHat and fellow WVU alum, made a draft of the work in progress available while I was writing [*Learning Proxmox VE* for Packt Publishing](https://www.packtpub.com/virtualization-and-cloud/learning-proxmox-ve); it had a tremendous effect on the outcome of my chapter on virtual disks.
 
 * Purchase the book from [Lulu](https://www.lulu.com/content/paperback-book/the-linux-sysadmins-guide-to-virtual-disks/18420783) for a modest $10 to support Bielewa's efforts.
-* The book is also available electronically from Tim's new imprint, Scribeguides, at http://scribeguides.com.
+* The book is also available electronically from Tim's new imprint, Scribeguides, at [http://scribeguides.com](http://scribeguides.com).
 
 <img src="http://scribesguides.com/images/full-cover.png">
