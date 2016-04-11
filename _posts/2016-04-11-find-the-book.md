@@ -9,7 +9,7 @@ categories:
 - DRM-free
 ---
 
-II did a thing. It's done: *Learning Proxmox VE* is available in print and as a DRM-free ebook.
+I did a thing. *Learning Proxmox VE* is available in print and as a DRM-free ebook.
 
 It's available at the usual suspects - [I link to resellers as I find them](http://learningproxmoxve.org/tagged/find-the-book).
 
