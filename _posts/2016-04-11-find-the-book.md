@@ -20,3 +20,5 @@ More content from the book is available at Slideshare; it's described as a sampl
 I chose Packt because I'm committed to keeping content [DRM-free](http://www.defectivebydesign.org/what_is_drm_digital_restrictions_management). True story. More filth [here](https://www.packtpub.com/books/info/authors/rik-goldman).
 
 To buy DRM-free, order as print or ebook directly from [Packt Pub](https://www.packtpub.com/virtualization-and-cloud/learning-proxmox-ve) or through [O'Reilly Media](http://shop.oreilly.com/product/9781783981786.do).
+
+<img src="http://ecx.images-amazon.com/images/I/81I%2B--YX2tL.jpg" title="Back Cover: Proxmox VE" alt="Back of the book: Orange and black with descriptive text">
