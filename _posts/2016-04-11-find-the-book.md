@@ -17,6 +17,6 @@ There's an article published at Packt Pub's site on Proxmox VE Fundamentals. Thi
 
 More content from the book is available at Slideshare; it's described as a sample chapter, and is, in fact, Chapter 7 of the title. It covers Proxmox VE host and guest security and is available [here](http://www.slideshare.net/PacktPub/learning-proxmox-ve-sample-chapter).
 
-I chose Packt because I'm committed to keeping content DRM-free. True story. More truthy stories [here](https://www.packtpub.com/books/info/authors/rik-goldman).
+I chose Packt because I'm committed to keeping content [DRM-free](http://www.defectivebydesign.org/what_is_drm_digital_restrictions_management). True story. More filth [here](https://www.packtpub.com/books/info/authors/rik-goldman).
 
-To keep it DRM-free, order as print or ebook directly from [Packt Pub](https://www.packtpub.com/virtualization-and-cloud/learning-proxmox-ve) or through [O'Reilly Media](http://shop.oreilly.com/product/9781783981786.do).
+To buy DRM-free, order as print or ebook directly from [Packt Pub](https://www.packtpub.com/virtualization-and-cloud/learning-proxmox-ve) or through [O'Reilly Media](http://shop.oreilly.com/product/9781783981786.do).
