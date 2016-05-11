@@ -35,7 +35,7 @@ After-care is available.
 
 ## Curriculum Overview
 
-(From http://www.chelseaschool.edu/summer/stem):
+(From http://www.chelseaschool.edu/summer/stem)
 
 ### Introduction to Coding
 
