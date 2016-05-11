@@ -9,6 +9,8 @@ categories:
 
 Chelsea School is holding its 2nd annual #STEAM/#STEM education program again in Summer 2016. Emphasis is on programming fundamentals, game design, environmental science, and creative writing.
 
+<img src="../images/collab.jpg" class="img-responsive" title="Collaboration Scrum style">
+
 Our Summer 2015 program received very high marks from participants and parents/guardians.
 
 We are, once again, emphasizing that the humanities are integral to understanding STEM fields and the works they produce.
