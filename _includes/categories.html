@@ -4,7 +4,7 @@
 <div class="category-box">
     <ul>
         {% for item in (0..site.categories.size) %}{% unless forloop.last %}
-        {% capture word %}{{ category[item] | strip_newlines }}{% endcapture %}
+        {% capture word %}{{ categories[item] | strip_newlines }}{% endcapture %}
         <li class="category-box-sub"><a href="/categories/#{{ word }}">{{ word }}&nbsp;<sup>{{ site.categories[word].size }}</sup></a></li>
         {% endunless %}{% endfor %}
     </ul>
