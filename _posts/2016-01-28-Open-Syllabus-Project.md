@@ -2,7 +2,7 @@
 layout: post
 title:  "The Open Syllabus Project: A First Look"
 date:   2016-01-28
-categories:
+tags:
 - academia
 - Linux
 - literature
@@ -10,6 +10,8 @@ categories:
 - Virginia Woolf
 - Finnegans Wake
 - open source
+Categories:
+- Education
 ---
 
 Great work and congratulations to everyone involved with the Open Syllabus Project.

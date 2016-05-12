@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Proxmox VE: dedicated site"
 date: 2016-03-25
-categories:
+Categories:
 - virtualization
 - Proxmox VE
 ---

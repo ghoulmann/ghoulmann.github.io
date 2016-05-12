@@ -4,6 +4,7 @@ title: "Summer STEM/STEAM Program at Chelsea School in Hyattsville, MD"
 date: 2016-05-03
 categories:
 - Chelsea School
+tags:
 - STEM and STEAM education
 ---
 

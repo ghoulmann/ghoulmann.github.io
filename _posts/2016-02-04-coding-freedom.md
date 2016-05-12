@@ -2,10 +2,13 @@
 layout: post
 title: "Keeping Coding Freedom in Mind"
 date: 2016-02-04
-categories:
+tags:
 - Debian
 - Hackers
 - anthropology
+categories:
+- Writing
+- Reviews
 ---
 
 

@@ -2,11 +2,13 @@
 layout: post
 title:  "Well, VLC Outputs ASCII Video"
 date:   2016-01-29
-categories:
+tags:
 - video
 - vlc
 - ascii
 - video production
+Categories:
+- Digital Imaging
 ---
 
 Well, I'm late to this party.

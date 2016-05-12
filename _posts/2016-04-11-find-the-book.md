@@ -5,6 +5,7 @@ date: 2016-04-11
 categories:
 - virtualization
 - Proxmox VE
+tags:
 - Packt Pub
 - DRM-free
 ---

@@ -2,10 +2,12 @@
 layout: post
 title: "Linux Sysadmin's Guide to Virtual Disks"
 date: 2016-03-25
-categories:
+tags:
 - virtualization
 - virtual disk
 - review
+categories:
+- Reviews
 ---
 
 A hearty congratulations (and thanks) thanks to Tim Bielawa, whose first book, *The Linux Sysadmin' Guide to Virtual Disks* was released earlier this month.
