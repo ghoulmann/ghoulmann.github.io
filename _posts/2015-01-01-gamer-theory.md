@@ -3,7 +3,7 @@ layout: post
 title:  McKenzie Wark's Gamer Theory (Review)
 date:   2015-01-1
 categories:
-- reviews
+- Reviews
 tags:
 - McKenzie Wark
 - Critical Theory

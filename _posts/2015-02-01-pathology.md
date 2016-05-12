@@ -10,8 +10,8 @@ tags:
 - The Conscience of a Hacker
 - special education
 Categories:
-- education
-- writing
+- Education
+- Writing
 ---
 
 

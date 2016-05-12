@@ -12,7 +12,7 @@ tags:
 - hacktivity
 - hacktivism
 - direct action
-Categories:
+categories:
 - Education
 - Editing
 ---

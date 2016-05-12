@@ -7,7 +7,7 @@ tags:
 - Aaron Swartz
 - unschooling
 - critical pedagogy
-Categories:
+categories:
 - Education
 ---
 
