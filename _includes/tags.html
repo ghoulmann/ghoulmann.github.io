@@ -5,7 +5,7 @@
     <ul>
         {% for item in (0..site.tags.size) %}{% unless forloop.last %}
         {% capture word %}{{ tag[item] | strip_newlines }}{% endcapture %}
-        <li class="tag-box-sub"><a href="/tags/#{{ word }}">{{ word }}&nbsp;<sup>{{ site.categories[word].size }}</sup></a></li>
+        <li class="tag-box-sub"><a href="/tags/#{{ word }}">{{ word }}&nbsp;<sup>{{ site.tags[word].size }}</sup></a></li>
         {% endunless %}{% endfor %}
     </ul>
 </div>
