@@ -3,11 +3,10 @@ layout: post
 title:  McKenzie Wark's Gamer Theory (Review)
 date:   2015-01-1
 categories:
-- critical theory
-- literature
-- continental philosophy
-- sociology
-- critique
+- reviews
+tags:
+- McKenzie Wark
+- Critical Theory
 ---
 
 McKenzie Wark, author of the nigh (ironically) impenetrable but maniacally compelling _A Hacker Manifesto_, applies high theory to come to an understanding of culture through gaming.
