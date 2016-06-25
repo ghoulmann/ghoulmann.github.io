@@ -10,6 +10,8 @@ tags:
 
 Very pleased to announce authorized Proxmox virtualization training in the United States.
 
+<p class="rtecenter"><a href="/images/Proxmox-logo-600px.png" /></p>
+
 Proxmox VE offers an enterprise-class, open source hypervisor that supports HA clusters, live migration, and much more. It's a fantastic host for virtual servers, both virtual machines and containers (LXC).
 
 Three course options are available:
