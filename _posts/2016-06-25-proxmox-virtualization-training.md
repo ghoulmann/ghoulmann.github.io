@@ -23,7 +23,7 @@ Three course options are available:
 
 Participants receive certificates from Proxmox Server Solutions GmbH after the completion of each course.
 
-The first session is scheduled for mid-July in downtown Washington, DC. The schedule will populate rapidly.
+The first session is scheduled for July 17-18, 2016 in downtown Washington, DC. The schedule will populate rapidly.
 
 Keep in mind, however, that in-house training can also be arranged.
 
