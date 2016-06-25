@@ -5,7 +5,8 @@ date: 2016-06-25
 categories:
 - Proxmox
 tags:
-- Proxmox VE, Virtualization
+- Proxmox VE
+- Virtualization
 ---
 
 Very pleased to announce authorized Proxmox virtualization training in the United States.
