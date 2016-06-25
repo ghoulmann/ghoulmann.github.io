@@ -26,4 +26,4 @@ The first session is scheduled for mid-July in downtown Washington, DC. The sche
 
 Keep in mind, however, that in-house training can also be arranged.
 
-For more details, please visit http://learningproxmoxve.org.
+For more details, please visit [http://learningproxmoxve.org](http://learningproxmoxve.org).
