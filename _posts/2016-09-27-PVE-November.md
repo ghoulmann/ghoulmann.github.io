@@ -33,7 +33,7 @@ If you'd like to make direct contact, you can reach me at <rgoldman@learningprox
 
 I want to be sure that I'm clear that in-house training is available for teams looking to work with Proxmox virtualization. In-house training can be customized and manipulated so they serve the needs of your teams.
 
-I offer in-house training for precisely those situations that more than two people in an organization are ready to harness everything that Proxmox VE has to offer: the in-house training is provided to save your organization travel expenses.
+I offer in-house training for precisely those situations wherein more than two people in an organization are ready to harness everything that Proxmox VE has to offer: the in-house training is provided to save your organization travel expenses.
 
 As of now, October and most of December are wide open. Please contact me if you'd like to learn more or arrange in-house training for your team.
 
