@@ -9,6 +9,8 @@ tags:
 - Critical Theory
 ---
 
+
+
 McKenzie Wark, author of the nigh (ironically) impenetrable but maniacally compelling _A Hacker Manifesto_, applies high theory to come to an understanding of culture through gaming.
 
 The style, tone, and elusiveness of the prose is so spot on that it might be read by others as a satire of Gramsci and the pop culture studies that followed. However, Wark makes a very serious and well-manicured case for his argument.

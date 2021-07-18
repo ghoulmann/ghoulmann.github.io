@@ -32,3 +32,14 @@ img { max-width: 100%;}
 #goToTop span:hover{
   color:#cccccc;
 }
+
+.blog-sidebar ul li {
+    line-height: 150%;
+}
+.blog-main, .blog-sidebar {
+  padding-top: 10px;
+}
+.tags-box-sub, .tag-box-sub {
+  line-height: 150%;
+}
+
