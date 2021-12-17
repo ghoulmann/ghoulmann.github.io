@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Certified Cloud Practitioner:: Achievement Unlocked"
+title:  "Certified Cloud Practitioner: Achievement Unlocked"
 date:   2021-12-17
 tags:
 - Certification
