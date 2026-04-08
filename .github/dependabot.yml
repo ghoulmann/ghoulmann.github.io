@@ -1,0 +1,13 @@
+version: 2
+updates:
+  # Maintain Ruby gems (Jekyll, themes, plugins)
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly" # Options: daily, weekly, monthly
+
+  # Optional: Keep GitHub Actions updated if you use them for deployment
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
