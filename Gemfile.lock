@@ -7,15 +7,14 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
-    addressable (2.8.0)
-      public_suffix (>= 2.0.2, < 5.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 6.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
     coffee-script-source (1.11.1)
     colorator (1.1.0)
-    commonmarker (>= 0.23.4)
-
+    commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.9)
     dnsruby (1.61.7)
@@ -278,42 +277,3 @@ DEPENDENCIES
 
 BUNDLED WITH
    2.2.24
-
-
-Severity
-High
-8.8
-/ 10
-CVSS base metrics
-Attack vector
-Network
-Attack complexity
-Low
-Privileges required
-Low
-User interaction
-None
-Scope
-Unchanged
-Confidentiality
-High
-Integrity
-High
-Availability
-High
-CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
-Weaknesses
-CWE-190
-CVE ID
-No CVE
-GHSA ID
-GHSA-fmx4-26r3-wxpf
-See advisory in GitHub Advisory Database
-See all of your affected repositories
-Creating a security update for commonmarker
-
-Dependabot is creating a security update to fix 1 Dependabot alert on commonmarker in Gemfile.lock.
-
-Or, manually upgrade commonmarker to version 0.23.4 or later. For example:
-
-
