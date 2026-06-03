@@ -1,0 +1,65 @@
+site_name: 'On the street / Saving the scene / From the forces of / Evil'
+site_description: 'Technical documentation and essays'
+docs_dir: docs
+site_dir: _site
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: black
+      accent: grey
+  font:
+    text: 'Inter'
+    code: 'Courier Prime'
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - toc.integrate
+
+markdown_extensions:
+  - pymdownx.arithmatex
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/css/custom.css
+
+nav:
+  - Home: index.md
+  - Digital Imaging:
+    - G'MIC Online Tutorial: imaging/gmic-online.md
+  - Technical Essays:
+    - Gamer Theory: essays/gamer-theory.md
+    - Pathology: essays/pathology.md
+    - Manifesto: essays/manifesto.md
+    - Aaron Swartz and Education: essays/aaron-swartz-education.md
+    - Coding Freedom: essays/coding-freedom.md
+    - Day Against DRM: essays/day-against-drm.md
+  - Virtualization & Cloud:
+    - Guide to Virtual Disks: virtualization/guide-virtual-disks.md
+    - PVE Emulation: virtualization/pve-emulation.md
+    - PVE GUI: virtualization/pve-gui.md
+  - Technology & Society:
+    - Open Syllabus Project: essays/open-syllabus-project.md
+    - LXC and OpenVZ Google Trends: essays/lxc-openvz-trends.md
+    - VLC ASCII Art: essays/vlc-ascii-art.md
+    - Chelsea School Summer Program: essays/chelsea-school-program.md
+  - Cloud Certifications:
+    - AWS Certified Cloud Practitioner: cloud/aws-ccp.md
+
+plugins:
+  - search
