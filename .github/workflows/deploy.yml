@@ -35,7 +35,6 @@ jobs:
       - name: Build site
         run: |
           mkdocs build
-          python3 build_404.py
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2

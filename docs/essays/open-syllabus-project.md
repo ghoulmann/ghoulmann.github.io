@@ -22,7 +22,7 @@ I have to dig through the database for a while; all I can say for now is that I'
 
 * Dive right in to the [syllabus explorer](http://explorer.opensyllabusproject.org/) (beta)
 
-<img src="../assets/images/splash.png">
+<img src="/assets/images/splash.png">
 
 I would've expected Toni Morrison's _Beloved_ to be pretty high up. I'm pleased to see Marx at three, and Adam Smith not in the top 12 pictured here. Rouseau should be here.
 
@@ -32,7 +32,7 @@ But I'm very surprised by Strunk's _Element's of Style_. It's not only inconsist
 
 
 
-<img src="../assets/images/harraway.png">
+<img src="/assets/images/harraway.png">
 
 I was curious whether Virginia Woolf's _Orlando_ showed up....anywhere, really.
 

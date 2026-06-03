@@ -19,4 +19,4 @@ The book is expected to be released by Packt on March 31, and will be available 
 
 Here's a mockup of the cover:
 
-<a href="https://www.packtpub.com/product/learning-proxmox-ve/9781783981786"><img title="Learning Proxmox VE (Mockup)" alt="cover mockup" src="../assets/images/smaller.jpeg"></a>
+<a href="https://www.packtpub.com/product/learning-proxmox-ve/9781783981786"><img title="Learning Proxmox VE (Mockup)" alt="cover mockup" src="/assets/images/smaller.jpeg"></a>

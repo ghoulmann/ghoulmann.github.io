@@ -14,8 +14,5 @@ Categories:
 - Virtualization
 ---
 
-<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=/m/0crds9p,+OpenVZ&cmpt=q&tz=Etc/GMT%2B5&tz=Etc/GMT%2B5&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
+<iframe width="100%" height="400" src="https://trends.google.com/trends/embed/explore?date=all&q=%2Fm%2F0crds9p,OpenVZ" title="Google Trends: LXC vs OpenVZ"></iframe>
 
--------------------------------
-
-<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=/m/0crds9p,+OpenVZ&cmpt=q&tz=Etc/GMT%2B5&tz=Etc/GMT%2B5&content=1&cid=GEO_TABLE_0_0&export=5&w=500&h=330"></script>

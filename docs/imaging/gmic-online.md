@@ -36,7 +36,7 @@ My instinct as film photographer, most interested in concert shots, is to try to
 
 Using G'MIC online, I can manipulate images stored locally. Instead of working with a shot of my own, I've chosen this shot:
 
-<img src="http://www.pop-kultur.berlin/wp-content/uploads/2015/04/HO99O9-live.jpg">
+![HO99O9 performing live](../assets/images/HO99O9-live.jpg)
 
 <caption>Before applying filters</caption>
 
