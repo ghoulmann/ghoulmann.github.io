@@ -2,6 +2,11 @@ site_name: 'On the street / Saving the scene / From the forces of / Evil'
 site_description: 'Technical documentation and essays'
 docs_dir: docs
 site_dir: _site
+edit_uri: ''
+
+# Custom settings
+extra:
+  error_page: 404.html
 theme:
   name: material
   palette:
@@ -49,9 +54,10 @@ nav:
     - Aaron Swartz and Education: essays/aaron-swartz-education.md
     - Coding Freedom: essays/coding-freedom.md
     - Day Against DRM: essays/day-against-drm.md
+    - Proxmox VE Support Site: essays/proxmox-support-site.md
+    - Proxmox VE Training: essays/proxmox-training.md
   - Virtualization & Cloud:
     - Guide to Virtual Disks: virtualization/guide-virtual-disks.md
-    - PVE Emulation: virtualization/pve-emulation.md
     - PVE GUI: virtualization/pve-gui.md
   - Technology & Society:
     - Open Syllabus Project: essays/open-syllabus-project.md

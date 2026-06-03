@@ -26,7 +26,7 @@ I don't want to see its value erased in the shadows of the success of *Hacker, H
 
 As a reminder, here's the ToC of *Coding Freedom*:
 
-![Coding Freedom: ToC](/images/codingfreedom.png)
+![Coding Freedom: ToC](../assets/images/codingfreedom.png)
 
 It's licensed CC, so please don't lose track of this work.
 

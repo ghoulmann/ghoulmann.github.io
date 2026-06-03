@@ -29,7 +29,7 @@ Throughout, this refrain reminds us of the inherent inhumanity of the scene.
 
 Whether it’s a farce or a tragedy, the pedagogical scene has already precipitated the ascension of a hacker class, expatriated from the “desert” of the real and presiding, peer-to-peer, over virtual telecommunication landscapes, as unified in purpose as they had been indivisible by pedagogues. “I know everyone here…even if I never met them, never talked to them, may never hear from them again…I know you all…Damn kid. Tying up the phone line again. They’re all alike…”
 
-![Conscience of a Hacker](/images/mentor.jpg)
+![Conscience of a Hacker](../assets/images/mentor.jpg)
 
 ----------------------
 

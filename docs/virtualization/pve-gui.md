@@ -34,12 +34,11 @@ Here're other changes to expect in the near future:
 
 To take it for a spin (on a machine not used for production), try the following:
 
-    echo "deb http://download.proxmox.com/debian jessie pvetest" > /etc/apt/sources.list.d/pvetest.list
-
-    apt-get update
-
-    apt-get -y upgrade
-
-    apt-get -y dist-upgrade
+```bash
+echo "deb http://download.proxmox.com/debian jessie pvetest" > /etc/apt/sources.list.d/pvetest.list
+apt-get update
+apt-get -y upgrade
+apt-get -y dist-upgrade
+```
 
 (Be sure the other PVE repositories are disabled.)

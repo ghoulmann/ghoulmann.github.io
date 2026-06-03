@@ -57,149 +57,82 @@
       color: #666666;
     }
 
-    .instructions {
+    .content {
       background-color: #0f0f0f;
       border: 1px solid #222222;
       border-radius: 4px;
-      padding: 20px;
+      padding: 24px;
       margin-bottom: 16px;
-      font-family: 'Courier Prime', monospace;
-      font-size: 13px;
-      line-height: 1.6;
     }
 
-    .instructions h2 {
+    .content p {
+      margin-bottom: 16px;
+      line-height: 1.6;
+      color: #d4d4d4;
+    }
+
+    .content h2 {
       font-family: 'Courier Prime', monospace;
-      font-size: 12px;
+      font-size: 14px;
       font-weight: 600;
       text-transform: uppercase;
-      letter-spacing: 0.2em;
+      letter-spacing: 0.1em;
       color: #ffffff;
-      margin-bottom: 16px;
-    }
-
-    .instructions p {
-      color: #999999;
+      margin-top: 20px;
       margin-bottom: 12px;
+      border-bottom: 1px solid #222222;
+      padding-bottom: 8px;
     }
 
-    .instructions-list {
-      border-top: 1px solid #222222;
-      padding-top: 12px;
-      space-y: 8px;
-    }
-
-    .instructions-list div {
-      color: #666666;
-      margin-bottom: 8px;
-      padding: 4px 0;
-    }
-
-    .instructions-list strong {
-      color: #ffffff;
-    }
-
-    .game-container {
-      background-color: #0f0f0f;
-      border: 1px solid #222222;
-      border-radius: 4px;
-      padding: 16px;
-    }
-
-    #game-output {
-      width: 100%;
-      height: 320px;
-      overflow-y: auto;
-      background-color: #080808;
-      border: 1px solid #222222;
-      border-radius: 4px;
-      padding: 12px;
-      margin-bottom: 12px;
-      font-family: 'Courier Prime', monospace;
-      font-size: 13px;
-      color: #d4d4d4;
-      white-space: pre-wrap;
-      word-wrap: break-word;
-      line-height: 1.5;
-    }
-
-    .input-group {
+    .nav-links {
       display: flex;
+      flex-direction: column;
       gap: 8px;
     }
 
-    #game-input {
-      flex: 1;
-      background-color: #080808;
-      border: 1px solid #222222;
-      border-radius: 4px;
-      padding: 10px 12px;
+    .nav-links a {
+      color: #888888;
+      text-decoration: none;
       font-family: 'Courier Prime', monospace;
       font-size: 13px;
-      color: #d4d4d4;
-    }
-
-    #game-input::placeholder {
-      color: #444444;
-    }
-
-    #game-input:focus {
-      outline: none;
-      border-color: #444444;
-      box-shadow: 0 0 8px rgba(255, 255, 255, 0.05);
-    }
-
-    #game-submit {
-      background-color: #0f0f0f;
+      padding: 8px 12px;
       border: 1px solid #222222;
       border-radius: 4px;
-      padding: 10px 20px;
-      font-family: 'Courier Prime', monospace;
-      font-size: 12px;
-      font-weight: 500;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      color: #d4d4d4;
-      cursor: pointer;
       transition: all 0.2s ease;
     }
 
-    #game-submit:hover:not(:disabled) {
-      border-color: #444444;
+    .nav-links a:hover {
       color: #ffffff;
-      box-shadow: 0 0 8px rgba(255, 255, 255, 0.05);
+      border-color: #444444;
     }
 
-    #game-submit:disabled {
-      opacity: 0.5;
-      cursor: not-allowed;
+    .quote {
+      background-color: #080808;
+      border-left: 4px solid #444444;
+      padding: 16px;
+      margin: 16px 0;
+      font-family: 'Courier Prime', monospace;
+      font-size: 13px;
+      color: #999999;
+      line-height: 1.6;
     }
 
-    .license-note {
-      margin-top: 24px;
+    .footer {
+      text-align: center;
       font-size: 12px;
       color: #555555;
-      font-family: 'Courier Prime', monospace;
       border-top: 1px solid #222222;
       padding-top: 16px;
+      margin-top: 24px;
     }
 
-    /* Scrollbar styling */
-    #game-output::-webkit-scrollbar {
-      width: 6px;
+    .footer a {
+      color: #888888;
+      text-decoration: none;
     }
 
-    #game-output::-webkit-scrollbar-track {
-      background: #0f0f0f;
-    }
-
-    #game-output::-webkit-scrollbar-thumb {
-      background: #222222;
-      border-radius: 3px;
-    }
-
-    #game-output::-webkit-scrollbar-thumb:hover {
-      background: #333333;
+    .footer a:hover {
+      color: #ffffff;
     }
   </style>
 </head>
@@ -211,154 +144,46 @@
       <p class="subtitle">Of twisty little passages, all alike.</p>
     </header>
 
-    <div class="instructions">
-      <h2>How to Play — Zork I</h2>
-      <p>You are playing Zork I: The Great Underground Empire (MIT Licensed). The original 1980 text adventure. Type commands in plain English.</p>
-      <div class="instructions-list">
-        <div><strong>Movement:</strong> n, s, e, w, u, d &nbsp;/&nbsp; go north, go south, etc.</div>
-        <div><strong>Actions:</strong> look &nbsp;·&nbsp; examine [obj] &nbsp;·&nbsp; take [obj] &nbsp;·&nbsp; open [obj] &nbsp;·&nbsp; drop [obj]</div>
-        <div><strong>Inventory:</strong> i &nbsp;/&nbsp; inventory</div>
-        <div><strong>Other:</strong> verbose &nbsp;·&nbsp; brief &nbsp;·&nbsp; save &nbsp;·&nbsp; restore &nbsp;·&nbsp; quit</div>
+    <div class="content">
+      <p>The page you're looking for doesn't exist. This happens when you:</p>
+      <ul style="margin-left: 20px; margin-bottom: 16px; color: #d4d4d4;">
+        <li>Follow a broken or outdated link</li>
+        <li>Mistype a URL</li>
+        <li>Wander into unmapped territory</li>
+      </ul>
+
+      <h2>Navigate Back</h2>
+      <div class="nav-links">
+        <a href="/">→ Home</a>
+        <a href="/docs/">→ Documentation</a>
+        <a href="javascript:history.back()">← Back</a>
       </div>
+
+      <h2>The Maze</h2>
+      <div class="quote">
+"You are in a twisty little maze of passages, all alike. You can see you are
+in some sort of underground labyrinth. To the north, south, east, and west are
+passages. Your visit to this place has been most educational."
+
+— Infocom's Zork I (1980)
+      </div>
+
+      <p>This site contains technical documentation on:</p>
+      <ul style="margin-left: 20px; margin-bottom: 16px; color: #d4d4d4;">
+        <li><strong>Digital Imaging:</strong> G'MIC and image processing</li>
+        <li><strong>Virtualization:</strong> Proxmox VE guides</li>
+        <li><strong>Essays:</strong> Technology, culture, and open standards</li>
+        <li><strong>Cloud:</strong> AWS certifications and infrastructure</li>
+      </ul>
     </div>
 
-    <div class="game-container">
-      <div id="game-output"></div>
-      <div class="input-group">
-        <input id="game-input" type="text" autocomplete="off" spellcheck="false" placeholder="Enter command…" disabled>
-        <button id="game-submit" disabled>Enter</button>
-      </div>
-    </div>
-
-    <div class="license-note">
-      Zork I © Infocom, Inc. Released under MIT License. <a href="/assets/zork/ZORK_LICENSE" style="color: #888888;">View License</a>
+    <div class="footer">
+      <p>
+        <a href="https://github.com/ghoulmann/ghoulmann.github.io">Source</a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/historicalsource/zork1">Zork I (MIT License)</a>
+      </p>
     </div>
   </div>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
-  <script src="https://www.kulchin.ru/zvm/zvm.js"></script>
-  <script>
-  (function() {
-    const output = document.getElementById('game-output');
-    const input = document.getElementById('game-input');
-    const submit = document.getElementById('game-submit');
-
-    let vmRef, pendingBuf, pendingEvent;
-
-    function appendOutput(text) {
-      output.textContent += text;
-      output.scrollTop = output.scrollHeight;
-    }
-
-    // Minimal Glk implementation for ZVM
-    function RefStruct() { this._f = []; }
-    RefStruct.prototype.push_field = function(v) { this._f.push(v); };
-    RefStruct.prototype.get_field = function(i) { return this._f[i]; };
-
-    function RefBox() { this._v = 0; }
-    RefBox.prototype.set_value = function(v) { this._v = v; };
-    RefBox.prototype.get_value = function() { return this._v; };
-
-    const Glk = {
-      RefStruct: RefStruct,
-      RefBox: RefBox,
-      update: function() {},
-      fatal_error: function(e) { appendOutput('\n[FATAL: ' + e + ']\n'); },
-      glk_window_open: function(split, method, size, wintype, rock) {
-        return split ? { id: 'upper', str: { id: 'upper' } } : { id: 'main', str: { id: 'main' } };
-      },
-      glk_set_window: function(win) {},
-      glk_window_clear: function(win) {
-        if (win && win.id === 'main') output.textContent = '';
-      },
-      glk_window_close: function(win) { return null; },
-      glk_window_get_stream: function(win) { return win ? win.str : null; },
-      glk_window_get_parent: function(win) { return null; },
-      glk_window_set_arrangement: function() {},
-      glk_window_get_size: function(win, wref, href) {
-        if (wref) wref.set_value(80);
-        if (href) href.set_value(win && win.id === 'upper' ? 1 : 24);
-      },
-      glk_window_move_cursor: function() {},
-      glk_put_jstring: function(text) { appendOutput(text); },
-      glk_put_jstring_stream: function(str, text) {
-        if (str && str.id === 'main') appendOutput(text);
-      },
-      glk_put_char_stream_uni: function(str, ch) {
-        if (str && str.id === 'main') appendOutput(String.fromCharCode(ch));
-      },
-      glk_request_line_event_uni: function(win, buf) { pendingBuf = buf; },
-      glk_request_char_event_uni: function() { pendingBuf = null; },
-      glk_select: function(event) {
-        pendingEvent = event;
-        input.disabled = false;
-        input.focus();
-      },
-      glk_set_style: function() {},
-      glk_stylehint_set: function() {},
-      glk_stylehint_clear: function() {},
-      glk_gestalt: function() { return 0; },
-      garglk_set_reversevideo: function() {},
-      garglk_set_reversevideo_stream: function() {},
-      garglk_set_zcolors_stream: function() {},
-      glk_fileref_create_by_prompt: function(usage, mode, rock) {
-        const ev = pendingEvent;
-        setTimeout(function() {
-          ev._f = ['fileref_create_by_prompt', null, 0, 0];
-          vmRef.resume(null);
-        }, 0);
-      },
-      glk_stream_close: function() {},
-      glk_stream_get_current: function() { return { id: 'main' }; },
-      glk_get_line_stream_uni: function() { return 0; },
-      glk_get_char_stream_uni: function() { return -1; }
-    };
-
-    function submitInput() {
-      if (!pendingEvent) return;
-      const text = input.value;
-      input.value = '';
-      input.disabled = true;
-      appendOutput(text + '\n');
-
-      if (pendingBuf) {
-        for (let i = 0; i < text.length && i < pendingBuf.length; i++) {
-          pendingBuf[i] = text.charCodeAt(i);
-        }
-        pendingEvent._f = [3, null, text.length, 0];
-      } else {
-        pendingEvent._f = [2, null, text.charCodeAt(0) || 13, 0];
-      }
-
-      const ev = pendingEvent;
-      pendingEvent = null;
-      pendingBuf = null;
-      vmRef.resume(ev);
-    }
-
-    input.addEventListener('keydown', function(e) {
-      if (e.key === 'Enter') submitInput();
-    });
-    submit.addEventListener('click', submitInput);
-
-    input.disabled = true;
-
-    // Load and start the game
-    fetch('/assets/zork/zork1.z3')
-      .then(r => {
-        if (!r.ok) throw new Error('HTTP ' + r.status);
-        return r.arrayBuffer();
-      })
-      .then(buf => {
-        vmRef = new ZVM();
-        vmRef.prepare(new Uint8Array(buf), { Glk: Glk });
-        vmRef.start();
-      })
-      .catch(err => {
-        appendOutput('Could not load Zork I — ' + err.message + '\n\n');
-        appendOutput('Ensure zork1.z3 is at /assets/zork/zork1.z3\n');
-      });
-  }());
-  </script>
 </body>
 </html>
