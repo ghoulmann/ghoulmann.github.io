@@ -36,7 +36,6 @@ markdown_extensions:
   - pymdownx.tasklist
   - pymdownx.tilde
   - admonition
-  - codehilite
   - toc:
       permalink: true
 
@@ -56,6 +55,7 @@ nav:
     - Day Against DRM: essays/day-against-drm.md
     - Proxmox VE Support Site: essays/proxmox-support-site.md
     - Proxmox VE Training: essays/proxmox-training.md
+    - Zork on a 404: essays/zork-on-404.md
   - Virtualization & Cloud:
     - Guide to Virtual Disks: virtualization/guide-virtual-disks.md
     - PVE GUI: virtualization/pve-gui.md
@@ -69,3 +69,6 @@ nav:
 
 plugins:
   - search
+
+hooks:
+  - hooks/copy_404.py
